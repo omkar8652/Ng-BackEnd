@@ -1,0 +1,14 @@
+D:\Coding life\NG\ng-backend\NgBackend.Contracts\bin\Debug\net6.0\NgBackend.Contracts.deps.json
+D:\Coding life\NG\ng-backend\NgBackend.Contracts\bin\Debug\net6.0\NgBackend.Contracts.runtimeconfig.json
+D:\Coding life\NG\ng-backend\NgBackend.Contracts\bin\Debug\net6.0\NgBackend.Contracts.dll
+D:\Coding life\NG\ng-backend\NgBackend.Contracts\bin\Debug\net6.0\NgBackend.Contracts.pdb
+D:\Coding life\NG\ng-backend\NgBackend.Contracts\obj\Debug\net6.0\NgBackend.Contracts.csproj.AssemblyReference.cache
+D:\Coding life\NG\ng-backend\NgBackend.Contracts\obj\Debug\net6.0\NgBackend.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding life\NG\ng-backend\NgBackend.Contracts\obj\Debug\net6.0\NgBackend.Contracts.AssemblyInfoInputs.cache
+D:\Coding life\NG\ng-backend\NgBackend.Contracts\obj\Debug\net6.0\NgBackend.Contracts.AssemblyInfo.cs
+D:\Coding life\NG\ng-backend\NgBackend.Contracts\obj\Debug\net6.0\NgBackend.Contracts.csproj.CoreCompileInputs.cache
+D:\Coding life\NG\ng-backend\NgBackend.Contracts\obj\Debug\net6.0\NgBackend.Contracts.dll
+D:\Coding life\NG\ng-backend\NgBackend.Contracts\obj\Debug\net6.0\refint\NgBackend.Contracts.dll
+D:\Coding life\NG\ng-backend\NgBackend.Contracts\obj\Debug\net6.0\NgBackend.Contracts.pdb
+D:\Coding life\NG\ng-backend\NgBackend.Contracts\obj\Debug\net6.0\NgBackend.Contracts.genruntimeconfig.cache
+D:\Coding life\NG\ng-backend\NgBackend.Contracts\obj\Debug\net6.0\ref\NgBackend.Contracts.dll

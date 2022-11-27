@@ -1,0 +1,14 @@
+D:\Coding life\NG\ng-backend\NgBackend.Domain\bin\Debug\net6.0\NgBackend.Domain.deps.json
+D:\Coding life\NG\ng-backend\NgBackend.Domain\bin\Debug\net6.0\NgBackend.Domain.runtimeconfig.json
+D:\Coding life\NG\ng-backend\NgBackend.Domain\bin\Debug\net6.0\NgBackend.Domain.dll
+D:\Coding life\NG\ng-backend\NgBackend.Domain\bin\Debug\net6.0\NgBackend.Domain.pdb
+D:\Coding life\NG\ng-backend\NgBackend.Domain\obj\Debug\net6.0\NgBackend.Domain.csproj.AssemblyReference.cache
+D:\Coding life\NG\ng-backend\NgBackend.Domain\obj\Debug\net6.0\NgBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding life\NG\ng-backend\NgBackend.Domain\obj\Debug\net6.0\NgBackend.Domain.AssemblyInfoInputs.cache
+D:\Coding life\NG\ng-backend\NgBackend.Domain\obj\Debug\net6.0\NgBackend.Domain.AssemblyInfo.cs
+D:\Coding life\NG\ng-backend\NgBackend.Domain\obj\Debug\net6.0\NgBackend.Domain.csproj.CoreCompileInputs.cache
+D:\Coding life\NG\ng-backend\NgBackend.Domain\obj\Debug\net6.0\NgBackend.Domain.dll
+D:\Coding life\NG\ng-backend\NgBackend.Domain\obj\Debug\net6.0\refint\NgBackend.Domain.dll
+D:\Coding life\NG\ng-backend\NgBackend.Domain\obj\Debug\net6.0\NgBackend.Domain.pdb
+D:\Coding life\NG\ng-backend\NgBackend.Domain\obj\Debug\net6.0\NgBackend.Domain.genruntimeconfig.cache
+D:\Coding life\NG\ng-backend\NgBackend.Domain\obj\Debug\net6.0\ref\NgBackend.Domain.dll

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgBackend.API", "NgBackend.API\NgBackend.API.csproj", "{EB695B58-CC43-4FF3-BB6E-16C7781FFC62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgBackend.Application", "NgBackend.Application\NgBackend.Application.csproj", "{29263604-B909-434A-870A-60FE852E8E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgBackend.Contracts", "NgBackend.Contracts\NgBackend.Contracts.csproj", "{BD28E6AA-3816-4D57-B191-9891157AA96B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgBackend.Domain", "NgBackend.Domain\NgBackend.Domain.csproj", "{BC8045A7-2492-4FCE-93DE-11720D79983D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgBackend.Infrastructure", "NgBackend.Infrastructure\NgBackend.Infrastructure.csproj", "{137953CB-4B95-40F7-84F9-3B66D55D768A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB695B58-CC43-4FF3-BB6E-16C7781FFC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB695B58-CC43-4FF3-BB6E-16C7781FFC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB695B58-CC43-4FF3-BB6E-16C7781FFC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB695B58-CC43-4FF3-BB6E-16C7781FFC62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29263604-B909-434A-870A-60FE852E8E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29263604-B909-434A-870A-60FE852E8E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29263604-B909-434A-870A-60FE852E8E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29263604-B909-434A-870A-60FE852E8E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD28E6AA-3816-4D57-B191-9891157AA96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD28E6AA-3816-4D57-B191-9891157AA96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD28E6AA-3816-4D57-B191-9891157AA96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD28E6AA-3816-4D57-B191-9891157AA96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC8045A7-2492-4FCE-93DE-11720D79983D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8045A7-2492-4FCE-93DE-11720D79983D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8045A7-2492-4FCE-93DE-11720D79983D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8045A7-2492-4FCE-93DE-11720D79983D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{137953CB-4B95-40F7-84F9-3B66D55D768A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137953CB-4B95-40F7-84F9-3B66D55D768A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137953CB-4B95-40F7-84F9-3B66D55D768A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137953CB-4B95-40F7-84F9-3B66D55D768A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
